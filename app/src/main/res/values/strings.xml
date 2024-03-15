@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="users">Пользователи</string>
+    <string name="video">Видеоролик</string>
+    <string name="user_name">Имя:%s</string>
+    <string name="user_login">Логин:%s</string>
+    <string name="user_email">Почта:%s</string>
+    <string name="user_address">Адресс:%s</string>
+    <string name="user_phone">Номер телефона:%s</string>
+    <string name="user_site">Сайт:%s</string>
+    <string name="user_company">Компания:%s</string>
+    <string name="back">Назад</string>
+    <string name="internet_error">Упс, перезапустите приложение</string>
+
+</resources>
